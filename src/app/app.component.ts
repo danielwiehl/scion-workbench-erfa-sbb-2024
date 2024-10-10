@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {RouterOutlet} from '@angular/router';
+import {WorkbenchComponent} from '@scion/workbench';
 
 @Component({
   selector: 'app-root',
@@ -7,7 +7,7 @@ import {RouterOutlet} from '@angular/router';
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
   imports: [
-    RouterOutlet,
+    WorkbenchComponent,
   ],
 })
 export class AppComponent {
