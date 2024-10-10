@@ -1,0 +1,12 @@
+<app-customer-info [customer]="order().customer" [address]="order().shippingAddress"/>
+
+<span class="order-number">Order no.:</span><span>{{order().id}}</span>
+<span class="date">Date:</span><span>{{order().date}}</span>
+<span class="total">Total:</span><span>CHF {{order().total}}</span>
+
+<section class="items">
+  @for (item of order().items; track item.id) {
+    <app-order-item [item]="item" (click)="onProductOpen(item.productId)"/>
+  }
+</section>
+

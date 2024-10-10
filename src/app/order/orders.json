@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "5D4B4318",
+    "date": "2024-07-03",
+    "customer": {
+      "id": "1",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "+1987654321"
+    },
+    "items": [
+      {
+        "id": "e4a4d3e2-2c20-4cb2-bfc0-7a376ed64eaa",
+        "productId": "1BF0838C",
+        "quantity": 1
+      },
+      {
+        "id": "3b4623b6-70a3-4e3b-b25d-5dca4a3f6f4e",
+        "productId": "4FA954D6",
+        "quantity": 1
+      },
+      {
+        "id": "d4a01211-4d1d-45e7-95d0-d5e4c11448c6",
+        "productId": "593C7754",
+        "quantity": 2
+      }
+    ],
+    "total": 3098.97,
+    "shippingAddress": {
+      "street": "456 Oak Ave",
+      "city": "Smalltown",
+      "state": "NY",
+      "postalCode": "54321",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "8E8F6B5F",
+    "date": "2024-07-02",
+    "customer": {
+      "id": "2",
+      "name": "Robert Johnson",
+      "email": "robert.johnson@example.com",
+      "phone": "+1765432109"
+    },
+    "items": [
+      {
+        "id": "f8a5ac17-21b1-40b0-a687-0d0f36179b3f",
+        "productId": "81606D13",
+        "quantity": 1
+      },
+      {
+        "id": "1124f2fd-13d3-41c1-939e-2a4a7c6e85f5",
+        "productId": "4C04AC45",
+        "quantity": 1
+      }
+    ],
+    "total": 5798.99,
+    "shippingAddress": {
+      "street": "789 Maple Blvd",
+      "city": "Metro City",
+      "state": "CA",
+      "postalCode": "98765",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "7C98FBA6",
+    "date": "2024-07-01",
+    "customer": {
+      "id": "3",
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "phone": "+1654321876"
+    },
+    "items": [
+      {
+        "id": "ecfe9a22-40d7-4a06-8eb7-7b8f8504c6e3",
+        "productId": "B17CC7EA",
+        "quantity": 2
+      },
+      {
+        "id": "4ff3f4b5-8a6f-4b08-a4b0-4979a2e00a3d",
+        "productId": "43F58F44",
+        "quantity": 1
+      }
+    ],
+    "total": 488.98,
+    "shippingAddress": {
+      "street": "321 Elm St",
+      "city": "Big City",
+      "state": "TX",
+      "postalCode": "76543",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "8D63A038",
+    "date": "2024-07-04",
+    "customer": {
+      "id": "4",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1123456789"
+    },
+    "items": [
+      {
+        "id": "a087f65b-3c4f-460e-8b2b-7c51b8b1f1f3",
+        "productId": "C7B92EAA",
+        "quantity": 1
+      },
+      {
+        "id": "54a3d39b-1577-42b8-87ec-1c74ab56eb8d",
+        "productId": "E59BE839",
+        "quantity": 1
+      }
+    ],
+    "total": 3149.98,
+    "shippingAddress": {
+      "street": "876 Pine St",
+      "city": "Mountain View",
+      "state": "CA",
+      "postalCode": "94040",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "9F155A0B",
+    "date": "2024-07-05",
+    "customer": {
+      "id": "5",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "6e9d2f7e-2cfd-43d5-9aef-5fa2ee77c8e5",
+        "productId": "99E80448",
+        "quantity": 3
+      }
+    ],
+    "total": 987.00,
+    "shippingAddress": {
+      "street": "456 Elm St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "A48B922D",
+    "date": "2024-07-06",
+    "customer": {
+      "id": "6",
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "phone": "+1666666666"
+    },
+    "items": [
+      {
+        "id": "16aef42a-6520-478d-b2e7-5e6314913e8e",
+        "productId": "263BE26E",
+        "quantity": 2
+      },
+      {
+        "id": "d598269a-5c59-4d55-9b49-b7b4326f97e0",
+        "productId": "93431FB3",
+        "quantity": 1
+      }
+    ],
+    "total": 2898.97,
+    "shippingAddress": {
+      "street": "789 Maple Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "C2E1E8C3",
+    "date": "2024-07-07",
+    "customer": {
+      "id": "7",
+      "name": "Emily White",
+      "email": "emily.white@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "7fdac2b5-2871-4e60-8da0-6e77aa0b1b62",
+        "productId": "FC608CB1",
+        "quantity": 1
+      },
+      {
+        "id": "73f5ea4a-813e-4a6f-bbdc-e7aae11e68d7",
+        "productId": "C688A2DC",
+        "quantity": 1
+      }
+    ],
+    "total": 749.98,
+    "shippingAddress": {
+      "street": "123 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "B10229A1",
+    "date": "2024-07-08",
+    "customer": {
+      "id": "8",
+      "name": "Daniel Johnson",
+      "email": "daniel.johnson@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "efcbdc5e-20a6-4d2e-8121-e9a7dd4ac4d4",
+        "productId": "418C11B8",
+        "quantity": 2
+      }
+    ],
+    "total": 1798.00,
+    "shippingAddress": {
+      "street": "567 Pine Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "FD2F3713",
+    "date": "2024-07-09",
+    "customer": {
+      "id": "E59BE839",
+      "name": "Jessica Miller",
+      "email": "jessica.miller@example.com",
+      "phone": "+1999999999"
+    },
+    "items": [
+      {
+        "id": "d5c8a3f6-6137-4602-9e22-2f44c7d90e12",
+        "productId": "7169B5CA",
+        "quantity": 1
+      },
+      {
+        "id": "4ef4643d-418f-431c-8b4e-2a5e96e33dc4",
+        "productId": "CDDD1E25",
+        "quantity": 3
+      }
+    ],
+    "total": 889.87,
+    "shippingAddress": {
+      "street": "234 Elm Ave",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "A3F631C5",
+    "date": "2024-07-10",
+    "customer": {
+      "id": "99E80448",
+      "name": "Andrew Wilson",
+      "email": "andrew.wilson@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "1913f314-6cc4-4f3e-82be-5211840d965f",
+        "productId": "7126E6BE",
+        "quantity": 2
+      },
+      {
+        "id": "93f7d35a-20bc-4a56-bb0e-57e7b9aa3e84",
+        "productId": "5AD24775",
+        "quantity": 1
+      }
+    ],
+    "total": 3759.97,
+    "shippingAddress": {
+      "street": "890 Maple St",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "9C505E0D",
+    "date": "2024-07-11",
+    "customer": {
+      "id": "263BE26E",
+      "name": "Sophia Davis",
+      "email": "sophia.davis@example.com",
+      "phone": "+1999999999"
+    },
+    "items": [
+      {
+        "id": "e5a85c98-d9e5-49e1-9a76-4874e30e1392",
+        "productId": "BA9158E0",
+        "quantity": 1
+      }
+    ],
+    "total": 799.00,
+    "shippingAddress": {
+      "street": "345 Oak Ave",
+      "city": "Austin",
+      "state": "TX",
+      "postalCode": "78701",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "4B89C746",
+    "date": "2024-07-12",
+    "customer": {
+      "id": "93431FB3",
+      "name": "Oliver Martinez",
+      "email": "oliver.martinez@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "b7495b5b-1c34-40b5-b3be-80d1b144372d",
+        "productId": "1BF0838C",
+        "quantity": 1
+      },
+      {
+        "id": "8b079b77-df7e-415b-9a4a-1541c1693e69",
+        "productId": "4FA954D6",
+        "quantity": 1
+      }
+    ],
+    "total": 2498.99,
+    "shippingAddress": {
+      "street": "456 Elm St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "C292DA22",
+    "date": "2024-07-13",
+    "customer": {
+      "id": "FC608CB1",
+      "name": "William Thompson",
+      "email": "william.thompson@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "b2f6f3e3-03d2-4458-bd97-ecb11ebf38e1",
+        "productId": "593C7754",
+        "quantity": 2
+      }
+    ],
+    "total": 599.98,
+    "shippingAddress": {
+      "street": "789 Oak Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "55E3C8F4",
+    "date": "2024-07-14",
+    "customer": {
+      "id": "C688A2DC",
+      "name": "Ethan Harris",
+      "email": "ethan.harris@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "6b01814d-e682-4e3f-8b2e-12e9de34295b",
+        "productId": "81606D13",
+        "quantity": 1
+      },
+      {
+        "id": "e2b7f3ed-0280-42e6-85b5-0138c33441f7",
+        "productId": "4C04AC45",
+        "quantity": 1
+      }
+    ],
+    "total": 2399.99,
+    "shippingAddress": {
+      "street": "234 Pine St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "3B7A4B29",
+    "date": "2024-07-15",
+    "customer": {
+      "id": "418C11B8",
+      "name": "Isabella Lopez",
+      "email": "isabella.lopez@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "c3c30416-2823-44ae-9f47-2e3d90ae7df4",
+        "productId": "B17CC7EA",
+        "quantity": 3
+      }
+    ],
+    "total": 359.97,
+    "shippingAddress": {
+      "street": "567 Oak Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "56E63A2E",
+    "date": "2024-07-16",
+    "customer": {
+      "id": "7169B5CA",
+      "name": "Alexander Gonzalez",
+      "email": "alexander.gonzalez@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "03b5d9b2-ec6b-48f4-b447-6a43e7f05b77",
+        "productId": "43F58F44",
+        "quantity": 2
+      },
+      {
+        "id": "c0c7a533-2c3e-4e79-bc5c-e7ff8e9958ce",
+        "productId": "C7B92EAA",
+        "quantity": 1
+      }
+    ],
+    "total": 1147.99,
+    "shippingAddress": {
+      "street": "890 Maple St",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "7DB1A9F1",
+    "date": "2024-07-17",
+    "customer": {
+      "id": "CDDD1E25",
+      "name": "Mia Wilson",
+      "email": "mia.wilson@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "139db54d-d1a6-4d30-8ec5-10bf1a6112c0",
+        "productId": "E59BE839",
+        "quantity": 1
+      },
+      {
+        "id": "f9a11b45-8824-4f8f-8a68-9921ba1b6e7e",
+        "productId": "99E80448",
+        "quantity": 2
+      }
+    ],
+    "total": 1086.99,
+    "shippingAddress": {
+      "street": "123 Pine Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "07F68F92",
+    "date": "2024-07-18",
+    "customer": {
+      "id": "7126E6BE",
+      "name": "James Lee",
+      "email": "james.lee@example.com",
+      "phone": "+1666666666"
+    },
+    "items": [
+      {
+        "id": "376b15b7-c2e8-47e3-bc08-1a2ac97b222c",
+        "productId": "263BE26E",
+        "quantity": 3
+      }
+    ],
+    "total": 3899.97,
+    "shippingAddress": {
+      "street": "456 Oak St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "755B6DF5",
+    "date": "2024-07-19",
+    "customer": {
+      "id": "5AD24775",
+      "name": "Charlotte Taylor",
+      "email": "charlotte.taylor@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "2d6b19c4-6c7a-47f8-88a8-5c16d4f4a03f",
+        "productId": "93431FB3",
+        "quantity": 1
+      },
+      {
+        "id": "7dbff874-96bc-4b77-b7be-ee4df9f34ee8",
+        "productId": "FC608CB1",
+        "quantity": 1
+      }
+    ],
+    "total": 749.98,
+    "shippingAddress": {
+      "street": "567 Elm Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "8F71D8B3",
+    "date": "2024-07-20",
+    "customer": {
+      "id": "BA9158E0",
+      "name": "David Rodriguez",
+      "email": "david.rodriguez@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "d04d5c19-c479-468d-ae30-2898b7a06a2c",
+        "productId": "C688A2DC",
+        "quantity": 1
+      },
+      {
+        "id": "67545c69-b27e-4b83-847f-bc87746953cd",
+        "productId": "418C11B8",
+        "quantity": 2
+      }
+    ],
+    "total": 2177.99,
+    "shippingAddress": {
+      "street": "890 Oak St",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "C692E558",
+    "date": "2024-07-21",
+    "customer": {
+      "id": "B4AA2D59",
+      "name": "Ava Martinez",
+      "email": "ava.martinez@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "bc6ea6e5-600d-4f77-b6e4-b4f89a32a8e1",
+        "productId": "7169B5CA",
+        "quantity": 1
+      },
+      {
+        "id": "f1c951f1-cb4b-48d4-b221-04ea36e5eb44",
+        "productId": "CDDD1E25",
+        "quantity": 1
+      }
+    ],
+    "total": 529.94,
+    "shippingAddress": {
+      "street": "123 Maple St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "F7B74F52",
+    "date": "2024-07-22",
+    "customer": {
+      "id": "19BD4E79",
+      "name": "Ella Clark",
+      "email": "ella.clark@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "baa8ec90-08d7-42e8-b635-7a4ecb8bcb27",
+        "productId": "7126E6BE",
+        "quantity": 1
+      },
+      {
+        "id": "9b63a3a0-7f5c-464c-9e0f-eac47f8e5783",
+        "productId": "5AD24775",
+        "quantity": 2
+      }
+    ],
+    "total": 2149.95,
+    "shippingAddress": {
+      "street": "456 Pine Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "07E05ED0",
+    "date": "2024-07-23",
+    "customer": {
+      "id": "316C69C3",
+      "name": "Matthew Hall",
+      "email": "matthew.hall@example.com",
+      "phone": "+1666666666"
+    },
+    "items": [
+      {
+        "id": "82e9b3d1-dfb0-486d-93d7-8a0ed52cf165",
+        "productId": "BA9158E0",
+        "quantity": 1
+      }
+    ],
+    "total": 799.00,
+    "shippingAddress": {
+      "street": "678 Elm St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "DE8310AE",
+    "date": "2024-07-24",
+    "customer": {
+      "id": "24F79677",
+      "name": "Victoria Rodriguez",
+      "email": "victoria.rodriguez@example.com",
+      "phone": "+1999999999"
+    },
+    "items": [
+      {
+        "id": "a956f859-5581-4d5e-a3ce-96a25b1c92a4",
+        "productId": "1BF0838C",
+        "quantity": 2
+      },
+      {
+        "id": "dc2e46be-3db3-43d6-97d7-d33f5423c51b",
+        "productId": "4FA954D6",
+        "quantity": 1
+      }
+    ],
+    "total": 4997.97,
+    "shippingAddress": {
+      "street": "890 Pine St",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "248E29A3",
+    "date": "2024-07-25",
+    "customer": {
+      "id": "4775BF7C",
+      "name": "Ryan Garcia",
+      "email": "ryan.garcia@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "c98d9a8a-b22b-4b1f-9286-df7798df3e58",
+        "productId": "593C7754",
+        "quantity": 3
+      },
+      {
+        "id": "f8ab8701-37f8-4a71-af14-e23ae4880a7c",
+        "productId": "81606D13",
+        "quantity": 1
+      }
+    ],
+    "total": 999.96,
+    "shippingAddress": {
+      "street": "567 Pine Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "02EE8C20",
+    "date": "2024-07-26",
+    "customer": {
+      "id": "F0162F49",
+      "name": "Olivia Rodriguez",
+      "email": "olivia.rodriguez@example.com",
+      "phone": "+1666666666"
+    },
+    "items": [
+      {
+        "id": "36c58b6e-8d18-4969-9b17-4df2d417c69e",
+        "productId": "4C04AC45",
+        "quantity": 1
+      },
+      {
+        "id": "a78b4891-541d-4c99-bfc7-9a0d2e4c3cd6",
+        "productId": "B17CC7EA",
+        "quantity": 1
+      }
+    ],
+    "total": 1199.98,
+    "shippingAddress": {
+      "street": "123 Maple St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "FD98EE4E",
+    "date": "2024-07-27",
+    "customer": {
+      "id": "BA0D7B54",
+      "name": "Lucas Smith",
+      "email": "lucas.smith@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "48b6cc6a-00c7-4ebd-8d4e-b83a6ef6b433",
+        "productId": "43F58F44",
+        "quantity": 2
+      },
+      {
+        "id": "e35b83f7-2e8d-4c23-8597-7029ddc4f2c3",
+        "productId": "C7B92EAA",
+        "quantity": 1
+      }
+    ],
+    "total": 1299.98,
+    "shippingAddress": {
+      "street": "456 Oak St",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "F4D5EAC1",
+    "date": "2024-07-28",
+    "customer": {
+      "id": "2EC47CBD",
+      "name": "Liam Johnson",
+      "email": "liam.johnson@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "621a1f9c-59f6-4c2c-9e01-69668d287f84",
+        "productId": "E59BE839",
+        "quantity": 1
+      },
+      {
+        "id": "6823bfef-7a89-4422-b5f0-9c5ce8d1f11c",
+        "productId": "99E80448",
+        "quantity": 1
+      }
+    ],
+    "total": 544.99,
+    "shippingAddress": {
+      "street": "678 Pine Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "AA36C227",
+    "date": "2024-07-29",
+    "customer": {
+      "id": "BD4FF8AE",
+      "name": "Noah Brown",
+      "email": "noah.brown@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "af4b9ac8-3642-4fe0-b9a3-3a56f18ce5b7",
+        "productId": "263BE26E",
+        "quantity": 2
+      },
+      {
+        "id": "f270f346-1ac0-4883-a4cf-8b02fe7eac08",
+        "productId": "93431FB3",
+        "quantity": 1
+      }
+    ],
+    "total": 2898.97,
+    "shippingAddress": {
+      "street": "890 Maple Ave",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "49B9F6CD",
+    "date": "2024-07-30",
+    "customer": {
+      "id": "29FD19DB",
+      "name": "Emma Garcia",
+      "email": "emma.garcia@example.com",
+      "phone": "+1666666666"
+    },
+    "items": [
+      {
+        "id": "a13b5cc2-b4e4-4c1c-b40d-7842bb54f84b",
+        "productId": "FC608CB1",
+        "quantity": 1
+      },
+      {
+        "id": "20884b24-c53f-489b-888b-53e52dbb3b8b",
+        "productId": "C688A2DC",
+        "quantity": 2
+      }
+    ],
+    "total": 1086.99,
+    "shippingAddress": {
+      "street": "345 Oak St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "E5E2B1FF",
+    "date": "2024-07-31",
+    "customer": {
+      "id": "4C8AC58C",
+      "name": "Sophia Lee",
+      "email": "sophia.lee@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "2b77b7d1-42b5-4d0a-8cf1-76d978f0a497",
+        "productId": "418C11B8",
+        "quantity": 2
+      },
+      {
+        "id": "7b9d69c3-1b33-42f6-9737-ef0b8bf16ac5",
+        "productId": "7169B5CA",
+        "quantity": 1
+      }
+    ],
+    "total": 1147.99,
+    "shippingAddress": {
+      "street": "234 Pine Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "E1E13AF1",
+    "date": "2024-08-01",
+    "customer": {
+      "id": "9B373834",
+      "name": "Aiden Walker",
+      "email": "aiden.walker@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "5a61dfbe-8f79-4c5d-97a7-b2e2e3b0c98f",
+        "productId": "1BF0838C",
+        "quantity": 1
+      },
+      {
+        "id": "2b8b6bc4-b8fa-4cc4-9108-9c5bfa6b9e8d",
+        "productId": "4FA954D6",
+        "quantity": 1
+      }
+    ],
+    "total": 1799.98,
+    "shippingAddress": {
+      "street": "234 Maple St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "11D134AD",
+    "date": "2024-08-02",
+    "customer": {
+      "id": "20BAB507",
+      "name": "Avery Green",
+      "email": "avery.green@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "e6e6c7d8-5a22-4b8a-b8c3-3f91f66d8b43",
+        "productId": "593C7754",
+        "quantity": 2
+      }
+    ],
+    "total": 599.98,
+    "shippingAddress": {
+      "street": "678 Pine Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "C56A6EAF",
+    "date": "2024-08-03",
+    "customer": {
+      "id": "8B10E8C8",
+      "name": "Grace Evans",
+      "email": "grace.evans@example.com",
+      "phone": "+1666666666"
+    },
+    "items": [
+      {
+        "id": "bbc1cf6c-4f5e-4c6b-9d56-1bb7092bc8db",
+        "productId": "81606D13",
+        "quantity": 1
+      },
+      {
+        "id": "7a82e926-3dd4-4cb1-b478-90c605a9f4df",
+        "productId": "4C04AC45",
+        "quantity": 1
+      }
+    ],
+    "total": 3399.98,
+    "shippingAddress": {
+      "street": "890 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "3DCF99BB",
+    "date": "2024-08-04",
+    "customer": {
+      "id": "429A0D17",
+      "name": "Jack Mitchell",
+      "email": "jack.mitchell@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "7ad0a631-0b94-4a32-9f9c-f5c7e65789b8",
+        "productId": "B17CC7EA",
+        "quantity": 1
+      }
+    ],
+    "total": 119.99,
+    "shippingAddress": {
+      "street": "234 Oak Ave",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "B47F8198",
+    "date": "2024-08-05",
+    "customer": {
+      "id": "17FBEB78",
+      "name": "Scarlett Martinez",
+      "email": "scarlett.martinez@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "09db5998-d5f0-45f6-9f2a-74e8cfb569bc",
+        "productId": "43F58F44",
+        "quantity": 1
+      },
+      {
+        "id": "aefdb2d5-c2c8-4e5c-b94b-2fc68a179c65",
+        "productId": "C7B92EAA",
+        "quantity": 1
+      }
+    ],
+    "total": 849.98,
+    "shippingAddress": {
+      "street": "678 Pine St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "D7F7E827",
+    "date": "2024-08-06",
+    "customer": {
+      "id": "7CDF7D76",
+      "name": "Isaac White",
+      "email": "isaac.white@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "3fdc1337-9b36-485d-935d-b5155d7b9378",
+        "productId": "E59BE839",
+        "quantity": 2
+      },
+      {
+        "id": "ab839e3e-31e0-48d3-849b-4e15e5ecfa33",
+        "productId": "99E80448",
+        "quantity": 1
+      }
+    ],
+    "total": 1499.97,
+    "shippingAddress": {
+      "street": "123 Maple Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "F78C0C99",
+    "date": "2024-08-07",
+    "customer": {
+      "id": "9D46F905",
+      "name": "Harper Robinson",
+      "email": "harper.robinson@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "c10f0c85-ffaf-4f8b-bdf4-e2f3f1d6c9e1",
+        "productId": "263BE26E",
+        "quantity": 1
+      },
+      {
+        "id": "d39530d5-61ec-4265-a6e1-8b60e86b7815",
+        "productId": "93431FB3",
+        "quantity": 1
+      }
+    ],
+    "total": 2599.98,
+    "shippingAddress": {
+      "street": "456 Pine St",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "2C128FF7",
+    "date": "2024-08-08",
+    "customer": {
+      "id": "4A063FC9",
+      "name": "Ella Wilson",
+      "email": "ella.wilson@example.com",
+      "phone": "+1888888888"
+    },
+    "items": [
+      {
+        "id": "f528f5b4-b5a6-4f37-ae6d-1f6cfeee6465",
+        "productId": "FC608CB1",
+        "quantity": 1
+      },
+      {
+        "id": "c3f3d9f4-f23e-4b98-9dc6-b194e8b78557",
+        "productId": "C688A2DC",
+        "quantity": 1
+      }
+    ],
+    "total": 749.98,
+    "shippingAddress": {
+      "street": "123 Elm St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "4F9845D3",
+    "date": "2024-08-09",
+    "customer": {
+      "id": "7D1DAD29",
+      "name": "William Harris",
+      "email": "william.harris@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "b137e2c1-daa7-4e92-9c28-88c6f56d43ef",
+        "productId": "418C11B8",
+        "quantity": 1
+      },
+      {
+        "id": "c947ae38-18b6-4b98-91d1-75d7a5297d6b",
+        "productId": "7169B5CA",
+        "quantity": 2
+      }
+    ],
+    "total": 2159.97,
+    "shippingAddress": {
+      "street": "678 Oak St",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "5AC71875",
+    "date": "2024-08-10",
+    "customer": {
+      "id": "41",
+      "name": "James Clark",
+      "email": "james.clark@example.com",
+      "phone": "+1555555555"
+    },
+    "items": [
+      {
+        "id": "98cbf4f1-5e48-46c4-83db-e6b99c69d9bc",
+        "productId": "CDDD1E25",
+        "quantity": 1
+      }
+    ],
+    "total": 799.99,
+    "shippingAddress": {
+      "street": "345 Maple St",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "66E624E3",
+    "date": "2024-08-11",
+    "customer": {
+      "id": "42",
+      "name": "Luna King",
+      "email": "luna.king@example.com",
+      "phone": "+1666666666"
+    },
+    "items": [
+      {
+        "id": "78d1c13e-53c8-4b38-891f-6e49f41fa913",
+        "productId": "7126E6BE",
+        "quantity": 1
+      },
+      {
+        "id": "649b3d72-8d8e-4d61-b47f-3fb62f4d16a2",
+        "productId": "5AD24775",
+        "quantity": 1
+      }
+    ],
+    "total": 2349.98,
+    "shippingAddress": {
+      "street": "234 Elm St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02101",
+      "country": "USA"
+    }
+  },
+  {
+    "id": "4FA6D9EB",
+    "date": "2024-08-12",
+    "customer": {
+      "id": "43",
+      "name": "Mason Scott",
+      "email": "mason.scott@example.com",
+      "phone": "+1777777777"
+    },
+    "items": [
+      {
+        "id": "eb6326e2-8c6b-41f8-9c5c-2f7a7f4e96e9",
+        "productId": "BA9158E0",
+        "quantity": 2
+      }
+    ],
+    "total": 1999.98,
+    "shippingAddress": {
+      "street": "678 Maple Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94101",
+      "country": "USA"
+    }
+  }
+]
